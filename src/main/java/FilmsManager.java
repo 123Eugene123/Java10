@@ -5,7 +5,7 @@ public class FilmsManager {
     private int limit;
 
     public FilmsManager() {
-        this.limit = 5;
+        this.limit = 6;
     }
 
     public FilmsManager(int limit) {
